@@ -1,4 +1,4 @@
-#face_detection_caffe2
+#face_detection_caffe1
 
 This is an implementation of "Face Detection with the Faster R-CNN" (arxiv 2016) in caffe.
 
