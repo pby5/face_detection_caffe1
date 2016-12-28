@@ -1,8 +1,8 @@
 #face_detection_caffe2
 
-This is an implementation of "Face Detection with the Faster R-CNN" (arxiv) in caffe.
+This is an implementation of "Face Detection with the Faster R-CNN" (arxiv 2016) in caffe.
 
-We train with wider face dataset + vgg16 network pre-training + faster rcnn + multi scale represention + l2 normalize + scale, more information you can refer to above paper.
+We train with wider face dataset + vgg16 network pre-training + faster rcnn, more information you can refer to above paper.
 Introduction
 
 This repository is a fork from py-faster-rcnn. You can refer to py-faster-rcnn README.md and faster-rcnn README.md for more information.
